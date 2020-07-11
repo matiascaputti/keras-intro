@@ -1,4 +1,4 @@
-# Keras introduction
+# Keras introduction
 
 Quick tutorial on how to use Keras library divided into:
 
